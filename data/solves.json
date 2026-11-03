@@ -1660,5 +1660,31 @@
   "runtimePct": 100,
   "attempts": 1,
   "source": "sync"
+ },
+ {
+  "id": "lc-2188945759",
+  "slug": "coin-change",
+  "title": "Coin Change",
+  "difficulty": "Medium",
+  "topics": [
+   "Dynamic programming",
+   "Graphs",
+   "Arrays"
+  ],
+  "tags": [
+   "Array",
+   "Dynamic Programming",
+   "Breadth-First Search",
+   "Knapsack Problem",
+   "Complete Knapsack"
+  ],
+  "questionId": "322",
+  "ts": 1793741765456,
+  "lang": "Python",
+  "runtime": "456 ms",
+  "memory": "19.7 MB",
+  "runtimePct": 77.8,
+  "attempts": 1,
+  "source": "sync"
  }
 ]
