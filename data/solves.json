@@ -1638,5 +1638,27 @@
   "solveSec": 0,
   "attempts": 1,
   "source": "sync"
+ },
+ {
+  "id": "lc-2188939712",
+  "slug": "house-robber-ii",
+  "title": "House Robber II",
+  "difficulty": "Medium",
+  "topics": [
+   "Dynamic programming",
+   "Arrays"
+  ],
+  "tags": [
+   "Array",
+   "Dynamic Programming"
+  ],
+  "questionId": "213",
+  "ts": 1793740570019,
+  "lang": "Python",
+  "runtime": "0 ms",
+  "memory": "18.8 MB",
+  "runtimePct": 100,
+  "attempts": 1,
+  "source": "sync"
  }
 ]
