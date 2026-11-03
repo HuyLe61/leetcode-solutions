@@ -24,7 +24,7 @@ class Solution:
             grid[r][c] = "0"
 
             while queue: 
-                node = queue.pop()
+                node = queue.popleft()
 
                 for dr, dc in directions: 
                     nr = node[0] + dr
