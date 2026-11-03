@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, pushed automatically by the Grind Prix extension.
 
-**74 solved** · 39 Easy · 34 Medium · 1 Hard
+**75 solved** · 39 Easy · 35 Medium · 1 Hard
 
 Progress dashboard: https://leetcode-tracker-eight-pied.vercel.app
 
@@ -10,6 +10,7 @@ Progress dashboard: https://leetcode-tracker-eight-pied.vercel.app
 
 | Date | Problem | Level | Language | Time | Tries |
 |---|---|---|---|---|---|
+| 2026-11-03 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | Medium | Python | — | 1st try |
 | 2026-11-03 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | Python | — | 1st try |
 | 2026-11-03 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | Python | — | 1st try |
 | 2026-11-03 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | Python | — | 1st try |
@@ -24,4 +25,3 @@ Progress dashboard: https://leetcode-tracker-eight-pied.vercel.app
 | 2026-11-02 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | Python | — | 2 |
 | 2026-11-02 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | Python | — | 1st try |
 | 2026-11-02 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | Python | — | 1st try |
-| 2026-11-02 | [Maximum Number of Operations to Move Ones to the End](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/) | Medium | Python | — | 1st try |

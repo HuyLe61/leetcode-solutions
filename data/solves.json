@@ -1717,5 +1717,31 @@
    "lc-2188954885"
   ],
   "approaches": 4
+ },
+ {
+  "id": "lc-2188972916",
+  "slug": "random-pick-with-weight",
+  "title": "Random Pick with Weight",
+  "difficulty": "Medium",
+  "topics": [
+   "Binary search",
+   "Math",
+   "Arrays"
+  ],
+  "tags": [
+   "Array",
+   "Math",
+   "Binary Search",
+   "Prefix Sum",
+   "Randomized"
+  ],
+  "questionId": "528",
+  "ts": 1793748283917,
+  "lang": "Python",
+  "runtime": "113 ms",
+  "memory": "24.5 MB",
+  "runtimePct": 33.3,
+  "attempts": 1,
+  "source": "sync"
  }
 ]
