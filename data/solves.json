@@ -1711,5 +1711,30 @@
   "runtimePct": 17.8,
   "attempts": 1,
   "source": "sync"
+ },
+ {
+  "id": "lc-2188954326",
+  "slug": "number-of-islands",
+  "title": "Number of Islands",
+  "difficulty": "Medium",
+  "topics": [
+   "Graphs",
+   "Arrays"
+  ],
+  "tags": [
+   "Array",
+   "Depth-First Search",
+   "Breadth-First Search",
+   "Union-Find",
+   "Matrix"
+  ],
+  "questionId": "200",
+  "ts": 1793743640895,
+  "lang": "Python",
+  "runtime": "271 ms",
+  "memory": "27 MB",
+  "runtimePct": 18.7,
+  "attempts": 1,
+  "source": "sync"
  }
 ]

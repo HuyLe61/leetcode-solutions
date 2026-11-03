@@ -25,13 +25,13 @@ class Solution:
             visited.add((r,c))
 
             while queue: 
-                node = queue.popleft()
+                node = queue.pop()
 
                 for dr, dc in directions: 
                     nr = node[0] + dr
                     nc = node[1] + dc 
 
-                    if (nr < 0) or (nr > m - 1) or (nc < 0) or (nc > n - 1): 
+                    if not ((0 <= nr < m) and (0 <= nc < n)): 
                         continue 
                     if grid[nr][nc] == "1" and (nr, nc) not in visited: 
                         queue.append((nr, nc)) 
