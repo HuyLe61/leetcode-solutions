@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "tz": "America/Detroit",
+ "tone": "enc",
+ "quiet": true,
+ "quietDays": [],
+ "reminders": {
+  "nudge": true,
+  "streak": true,
+  "pace": true,
+  "milestone": true,
+  "friends": false
+ },
+ "times": {
+  "nudge": 480,
+  "streak": 1200,
+  "pace": 1140
+ },
+ "goals": [
+  {
+   "id": "g-1793740618983",
+   "type": "daily",
+   "perDay": 10
+  },
+  {
+   "id": "g-1793740652443",
+   "type": "total",
+   "target": 150,
+   "by": "2026-11-08"
+  }
+ ],
+ "targets": {
+  "Easy": 300,
+  "Medium": 600,
+  "Hard": 1200
+ }
+}
