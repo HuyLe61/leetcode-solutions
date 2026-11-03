@@ -1,0 +1,39 @@
+# Grind Prix phone reminders. Copied here from the leetcode-tracker repo (remind/), don't edit by hand.
+# Runs twice an hour; the script decides what is due and sends it to the ntfy app on your phone.
+name: Grind Prix reminders
+
+on:
+  schedule:
+    - cron: '7,37 * * * *'
+  workflow_dispatch:
+    inputs:
+      test:
+        description: Send a test message
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: reminders
+
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            data
+            .github/grindprix
+      - name: Send due reminders
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          TEST: ${{ inputs.test }}
+        run: |
+          # your time zone, saved by the website in data/settings.json
+          export TZ="$(jq -r '.tz // empty' data/settings.json 2>/dev/null || true)"
+          export TZ="${TZ:-America/New_York}"
+          node .github/grindprix/remind.mjs
