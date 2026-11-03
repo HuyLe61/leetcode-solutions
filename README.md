@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, pushed automatically by the Grind Prix extension.
 
-**57 solved** · 36 Easy · 20 Medium · 1 Hard
+**58 solved** · 36 Easy · 21 Medium · 1 Hard
 
 Progress dashboard: https://leetcode-tracker-eight-pied.vercel.app
 
@@ -10,6 +10,7 @@ Progress dashboard: https://leetcode-tracker-eight-pied.vercel.app
 
 | Date | Problem | Level | Language | Time | Tries |
 |---|---|---|---|---|---|
+| 2026-11-03 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | Python | 0:00 | 1st try |
 | 2026-11-03 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | Python | 0:00 | 1st try |
 | 2026-11-03 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Python | 6:36 | 1st try |
 | 2026-08-12 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | Python | — | 2 |
@@ -24,4 +25,3 @@ Progress dashboard: https://leetcode-tracker-eight-pied.vercel.app
 | 2026-02-03 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | Easy | C++ | — | 1st try |
 | 2026-02-03 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | C++ | — | 1st try |
 | 2025-12-06 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | Easy | MySQL | — | 1st try |
-| 2025-12-06 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | Easy | MySQL | — | 1st try |

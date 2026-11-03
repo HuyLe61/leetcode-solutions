@@ -1205,5 +1205,29 @@
   "solveSec": 0,
   "attempts": 1,
   "source": "sync"
+ },
+ {
+  "id": "lc-2188369007",
+  "slug": "longest-consecutive-sequence",
+  "title": "Longest Consecutive Sequence",
+  "difficulty": "Medium",
+  "topics": [
+   "Hash maps",
+   "Arrays"
+  ],
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Union-Find"
+  ],
+  "questionId": "128",
+  "ts": 1793688879906,
+  "lang": "Python",
+  "runtime": "50 ms",
+  "memory": "36.5 MB",
+  "runtimePct": 60.4,
+  "solveSec": 0,
+  "attempts": 1,
+  "source": "sync"
  }
 ]
