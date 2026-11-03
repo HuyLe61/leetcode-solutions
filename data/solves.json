@@ -1,1 +1,25 @@
-[]
+[
+ {
+  "id": "lc-2188359500",
+  "slug": "two-sum",
+  "title": "Two Sum",
+  "difficulty": "Easy",
+  "topics": [
+   "Hash maps",
+   "Arrays"
+  ],
+  "tags": [
+   "Array",
+   "Hash Table"
+  ],
+  "questionId": "1",
+  "ts": 1793688082000,
+  "lang": "Python",
+  "runtime": "1 ms",
+  "memory": "12.8 MB",
+  "runtimePct": 68.9,
+  "solveSec": 396,
+  "attempts": 1,
+  "source": "sync"
+ }
+]
