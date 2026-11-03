@@ -17,11 +17,12 @@ class Solution:
         ]
 
         m, n = len(grid), len(grid[0]) 
+        visited = set()
         islands = 0
 
         def bfs(r, c): 
             queue = deque([(r,c)])
-            grid[r][c] = "0"
+            visited.add((r,c))
 
             while queue: 
                 node = queue.popleft()
@@ -30,15 +31,15 @@ class Solution:
                     nr = node[0] + dr
                     nc = node[1] + dc 
 
-                    if not ((0 <= nr < m) and (0 <= nc < n)): 
+                    if (nr < 0) or (nr > m - 1) or (nc < 0) or (nc > n - 1): 
                         continue 
-                    if grid[nr][nc] == "1":
+                    if grid[nr][nc] == "1" and (nr, nc) not in visited: 
                         queue.append((nr, nc)) 
-                        grid[nr][nc] = "0"
+                        visited.add((nr, nc))
         
         for r in range(m): 
             for c in range(n): 
-                if grid[r][c] == "1":
+                if grid[r][c] == "1" and (r, c) not in visited: 
                     bfs(r,c) 
                     islands += 1
         

@@ -10,9 +10,6 @@ Progress dashboard: https://leetcode-tracker-eight-pied.vercel.app
 
 | Date | Problem | Level | Language | Time | Tries |
 |---|---|---|---|---|---|
-| 2026-11-03 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | Python | 0:23 | 1st try |
-| 2026-11-03 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | Python | — | 1st try |
-| 2026-11-03 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | Python | — | 1st try |
 | 2026-11-03 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | Python | — | 1st try |
 | 2026-11-03 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | Python | — | 1st try |
 | 2026-11-03 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | Python | — | 1st try |
@@ -25,3 +22,6 @@ Progress dashboard: https://leetcode-tracker-eight-pied.vercel.app
 | 2026-11-02 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | Python | — | 3 |
 | 2026-11-02 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | Python | — | 1st try |
 | 2026-11-02 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | Python | — | 2 |
+| 2026-11-02 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | Python | — | 1st try |
+| 2026-11-02 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | Python | — | 1st try |
+| 2026-11-02 | [Maximum Number of Operations to Move Ones to the End](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/) | Medium | Python | — | 1st try |
