@@ -12,13 +12,14 @@ class Solution:
         target = total // 2
         # DP: Excluding 1 number and see if there's any subset sum to target - num 
         # DP[i] = DP[target - i]
-        dp = [False] * (target + 1)
-        dp[0] = True
-
-        for num in nums: 
-            for s in range(target, num - 1, -1): 
-                dp[s] = dp[s] or dp[s - num]
-        return dp[target]
+        @cache 
+        def dp(i, remaining): 
+            if remaining == 0:
+                return True 
+            if remaining < 0 or i == len(nums): 
+                return False
+            return dp(i + 1, remaining) or dp(i + 1, remaining - nums[i])
+        return dp(0, target)
         
         
 

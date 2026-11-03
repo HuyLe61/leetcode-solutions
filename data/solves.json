@@ -1159,6 +1159,415 @@
   "source": "sync"
  },
  {
+  "id": "lc-2105243241",
+  "slug": "kids-with-the-greatest-number-of-candies",
+  "title": "Kids With the Greatest Number of Candies",
+  "difficulty": "Easy",
+  "topics": [
+   "Arrays"
+  ],
+  "tags": [
+   "Array"
+  ],
+  "questionId": "1431",
+  "ts": 1786613453000,
+  "lang": "Python",
+  "runtime": "0 ms",
+  "memory": "19.3 MB",
+  "attempts": 1,
+  "source": "sync"
+ },
+ {
+  "id": "lc-2106371213",
+  "slug": "can-place-flowers",
+  "title": "Can Place Flowers",
+  "difficulty": "Easy",
+  "topics": [
+   "Greedy",
+   "Arrays"
+  ],
+  "tags": [
+   "Array",
+   "Greedy"
+  ],
+  "questionId": "605",
+  "ts": 1786696007000,
+  "lang": "C++",
+  "runtime": "0 ms",
+  "memory": "24.1 MB",
+  "attempts": 4,
+  "source": "sync"
+ },
+ {
+  "id": "lc-2106374625",
+  "slug": "reverse-vowels-of-a-string",
+  "title": "Reverse Vowels of a String",
+  "difficulty": "Easy",
+  "topics": [
+   "Two pointers"
+  ],
+  "tags": [
+   "Two Pointers",
+   "String"
+  ],
+  "questionId": "345",
+  "ts": 1786696265000,
+  "lang": "C++",
+  "runtime": "4 ms",
+  "memory": "10.3 MB",
+  "attempts": 1,
+  "source": "sync"
+ },
+ {
+  "id": "lc-2106390898",
+  "slug": "reverse-words-in-a-string",
+  "title": "Reverse Words in a String",
+  "difficulty": "Medium",
+  "topics": [
+   "Two pointers"
+  ],
+  "tags": [
+   "Two Pointers",
+   "String"
+  ],
+  "questionId": "151",
+  "ts": 1786697392000,
+  "lang": "Python",
+  "runtime": "0 ms",
+  "memory": "19.3 MB",
+  "attempts": 2,
+  "source": "sync"
+ },
+ {
+  "id": "lc-2181990899",
+  "slug": "subarray-sum-equals-k",
+  "title": "Subarray Sum Equals K",
+  "difficulty": "Medium",
+  "topics": [
+   "Hash maps",
+   "Arrays"
+  ],
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Prefix Sum"
+  ],
+  "questionId": "560",
+  "ts": 1792997563000,
+  "lang": "Python",
+  "runtime": "31 ms",
+  "memory": "21.6 MB",
+  "attempts": 3,
+  "source": "sync"
+ },
+ {
+  "id": "lc-2182167783",
+  "slug": "successful-pairs-of-spells-and-potions",
+  "title": "Successful Pairs of Spells and Potions",
+  "difficulty": "Medium",
+  "topics": [
+   "Two pointers",
+   "Binary search",
+   "Arrays"
+  ],
+  "tags": [
+   "Array",
+   "Two Pointers",
+   "Binary Search",
+   "Sorting"
+  ],
+  "questionId": "2300",
+  "ts": 1793014486000,
+  "lang": "Python",
+  "runtime": "789 ms",
+  "memory": "43.8 MB",
+  "attempts": 5,
+  "source": "sync"
+ },
+ {
+  "id": "lc-2183441979",
+  "slug": "house-robber",
+  "title": "House Robber",
+  "difficulty": "Medium",
+  "topics": [
+   "Dynamic programming",
+   "Arrays"
+  ],
+  "tags": [
+   "Array",
+   "Dynamic Programming"
+  ],
+  "questionId": "198",
+  "ts": 1793134638000,
+  "lang": "Python",
+  "runtime": "0 ms",
+  "memory": "19.2 MB",
+  "attempts": 5,
+  "source": "sync"
+ },
+ {
+  "id": "lc-2183448789",
+  "slug": "rising-temperature",
+  "title": "Rising Temperature",
+  "difficulty": "Easy",
+  "topics": [],
+  "tags": [
+   "Database"
+  ],
+  "questionId": "197",
+  "ts": 1793135802000,
+  "lang": "MySQL",
+  "runtime": "494 ms",
+  "memory": "0.0B",
+  "attempts": 3,
+  "source": "sync"
+ },
+ {
+  "id": "lc-2183589859",
+  "slug": "maximum-star-sum-of-a-graph",
+  "title": "Maximum Star Sum of a Graph",
+  "difficulty": "Medium",
+  "topics": [
+   "Heaps",
+   "Greedy",
+   "Arrays"
+  ],
+  "tags": [
+   "Array",
+   "Greedy",
+   "Graph Theory",
+   "Sorting",
+   "Heap (Priority Queue)"
+  ],
+  "questionId": "2497",
+  "ts": 1793161176000,
+  "lang": "Python",
+  "runtime": "118 ms",
+  "memory": "61.3 MB",
+  "attempts": 1,
+  "source": "sync"
+ },
+ {
+  "id": "lc-2186525617",
+  "slug": "separate-black-and-white-balls",
+  "title": "Separate Black and White Balls",
+  "difficulty": "Medium",
+  "topics": [
+   "Two pointers",
+   "Greedy"
+  ],
+  "tags": [
+   "Two Pointers",
+   "String",
+   "Greedy"
+  ],
+  "questionId": "2938",
+  "ts": 1793486521000,
+  "lang": "Python",
+  "runtime": "43 ms",
+  "memory": "19.9 MB",
+  "attempts": 2,
+  "source": "sync"
+ },
+ {
+  "id": "lc-2188094402",
+  "slug": "maximum-number-of-operations-to-move-ones-to-the-end",
+  "title": "Maximum Number of Operations to Move Ones to the End",
+  "difficulty": "Medium",
+  "topics": [
+   "Greedy",
+   "Hash maps"
+  ],
+  "tags": [
+   "String",
+   "Greedy",
+   "Counting"
+  ],
+  "questionId": "3228",
+  "ts": 1793651520000,
+  "lang": "Python",
+  "runtime": "58 ms",
+  "memory": "19.9 MB",
+  "attempts": 1,
+  "source": "sync"
+ },
+ {
+  "id": "lc-2188114031",
+  "slug": "longest-consecutive-sequence",
+  "title": "Longest Consecutive Sequence",
+  "difficulty": "Medium",
+  "topics": [
+   "Hash maps",
+   "Arrays"
+  ],
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Union-Find"
+  ],
+  "questionId": "128",
+  "ts": 1793654829000,
+  "lang": "Python",
+  "runtime": "46 ms",
+  "memory": "36.6 MB",
+  "attempts": 1,
+  "source": "sync"
+ },
+ {
+  "id": "lc-2188126218",
+  "slug": "koko-eating-bananas",
+  "title": "Koko Eating Bananas",
+  "difficulty": "Medium",
+  "topics": [
+   "Binary search",
+   "Arrays"
+  ],
+  "tags": [
+   "Array",
+   "Binary Search"
+  ],
+  "questionId": "875",
+  "ts": 1793657300000,
+  "lang": "Python",
+  "runtime": "169 ms",
+  "memory": "20.5 MB",
+  "attempts": 1,
+  "source": "sync"
+ },
+ {
+  "id": "lc-2188131457",
+  "slug": "non-overlapping-intervals",
+  "title": "Non-overlapping Intervals",
+  "difficulty": "Medium",
+  "topics": [
+   "Dynamic programming",
+   "Greedy",
+   "Arrays"
+  ],
+  "tags": [
+   "Array",
+   "Dynamic Programming",
+   "Greedy",
+   "Sorting"
+  ],
+  "questionId": "435",
+  "ts": 1793658476000,
+  "lang": "Python",
+  "runtime": "73 ms",
+  "memory": "60.6 MB",
+  "attempts": 2,
+  "source": "sync"
+ },
+ {
+  "id": "lc-2188136207",
+  "slug": "valid-sudoku",
+  "title": "Valid Sudoku",
+  "difficulty": "Medium",
+  "topics": [
+   "Hash maps",
+   "Arrays"
+  ],
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Matrix"
+  ],
+  "questionId": "36",
+  "ts": 1793659605000,
+  "lang": "Python",
+  "runtime": "4 ms",
+  "memory": "19.2 MB",
+  "attempts": 1,
+  "source": "sync"
+ },
+ {
+  "id": "lc-2188143626",
+  "slug": "search-in-rotated-sorted-array",
+  "title": "Search in Rotated Sorted Array",
+  "difficulty": "Medium",
+  "topics": [
+   "Binary search",
+   "Arrays"
+  ],
+  "tags": [
+   "Array",
+   "Binary Search"
+  ],
+  "questionId": "33",
+  "ts": 1793661476000,
+  "lang": "Python",
+  "runtime": "0 ms",
+  "memory": "19.5 MB",
+  "attempts": 3,
+  "source": "sync"
+ },
+ {
+  "id": "lc-2188156599",
+  "slug": "longest-consecutive-sequence",
+  "title": "Longest Consecutive Sequence",
+  "difficulty": "Medium",
+  "topics": [
+   "Hash maps",
+   "Arrays"
+  ],
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Union-Find"
+  ],
+  "questionId": "128",
+  "ts": 1793664628000,
+  "lang": "Python",
+  "runtime": "52 ms",
+  "memory": "36.6 MB",
+  "attempts": 1,
+  "source": "sync"
+ },
+ {
+  "id": "lc-2188164148",
+  "slug": "partition-equal-subset-sum",
+  "title": "Partition Equal Subset Sum",
+  "difficulty": "Medium",
+  "topics": [
+   "Dynamic programming",
+   "Arrays"
+  ],
+  "tags": [
+   "Array",
+   "Dynamic Programming",
+   "Knapsack Problem",
+   "0-1 Knapsack"
+  ],
+  "questionId": "416",
+  "ts": 1793666250000,
+  "lang": "Python",
+  "runtime": "2467 ms",
+  "memory": "502.1 MB",
+  "attempts": 7,
+  "source": "sync"
+ },
+ {
+  "id": "lc-2188359095",
+  "slug": "two-sum",
+  "title": "Two Sum",
+  "difficulty": "Easy",
+  "topics": [
+   "Hash maps",
+   "Arrays"
+  ],
+  "tags": [
+   "Array",
+   "Hash Table"
+  ],
+  "questionId": "1",
+  "ts": 1793688047000,
+  "lang": "Python",
+  "runtime": "1 ms",
+  "memory": "12.7 MB",
+  "attempts": 1,
+  "source": "sync"
+ },
+ {
   "id": "lc-2188359500",
   "slug": "two-sum",
   "title": "Two Sum",
