@@ -21,5 +21,30 @@
   "solveSec": 396,
   "attempts": 1,
   "source": "sync"
+ },
+ {
+  "id": "lc-2188368887",
+  "slug": "partition-equal-subset-sum",
+  "title": "Partition Equal Subset Sum",
+  "difficulty": "Medium",
+  "topics": [
+   "Dynamic programming",
+   "Arrays"
+  ],
+  "tags": [
+   "Array",
+   "Dynamic Programming",
+   "Knapsack Problem",
+   "0-1 Knapsack"
+  ],
+  "questionId": "416",
+  "ts": 1793688869699,
+  "lang": "Python",
+  "runtime": "585 ms",
+  "memory": "19.1 MB",
+  "runtimePct": 77.1,
+  "solveSec": 0,
+  "attempts": 1,
+  "source": "sync"
  }
 ]
