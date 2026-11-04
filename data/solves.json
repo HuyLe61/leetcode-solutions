@@ -1769,6 +1769,10 @@
   "memory": "41.4 MB",
   "runtimePct": 9.2,
   "attempts": 1,
-  "source": "sync"
+  "source": "sync",
+  "approachIds": [
+   "lc-2188998364"
+  ],
+  "approaches": 2
  }
 ]
