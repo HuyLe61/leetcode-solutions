@@ -1681,7 +1681,8 @@
   "memory": "18.8 MB",
   "runtimePct": 100,
   "attempts": 1,
-  "source": "sync"
+  "source": "sync",
+  "solveSec": 871
  },
  {
   "id": "lc-2188945759",
