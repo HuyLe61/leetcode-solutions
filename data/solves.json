@@ -1799,6 +1799,7 @@
   "approachIds": [
    "lc-2188998364"
   ],
-  "approaches": 2
+  "approaches": 2,
+  "solveSec": 362
  }
 ]
