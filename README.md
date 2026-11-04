@@ -13,7 +13,7 @@ Progress dashboard: https://leetcode-tracker-eight-pied.vercel.app
 | 2026-11-04 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium | Python | — | 1st try · 2 approaches |
 | 2026-11-03 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | Medium | Python | — | 1st try |
 | 2026-11-03 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | Python | — | 1st try · 4 approaches |
-| 2026-11-03 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | Python | — | 1st try |
+| 2026-11-03 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | Python | 10:32 | 1st try |
 | 2026-11-03 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | Python | 14:31 | 1st try |
 | 2026-11-03 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | Python | 0:16 | 1st try |
 | 2026-11-03 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | Python | — | 1st try |
