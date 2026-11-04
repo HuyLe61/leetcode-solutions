@@ -1743,5 +1743,32 @@
   "runtimePct": 33.3,
   "attempts": 1,
   "source": "sync"
+ },
+ {
+  "id": "lc-2188995160",
+  "slug": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+  "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+  "difficulty": "Medium",
+  "topics": [
+   "Heaps",
+   "Sliding window",
+   "Arrays"
+  ],
+  "tags": [
+   "Array",
+   "Queue",
+   "Sliding Window",
+   "Heap (Priority Queue)",
+   "Ordered Set",
+   "Monotonic Queue"
+  ],
+  "questionId": "1438",
+  "ts": 1793754172355,
+  "lang": "Python",
+  "runtime": "476 ms",
+  "memory": "41.4 MB",
+  "runtimePct": 9.2,
+  "attempts": 1,
+  "source": "sync"
  }
 ]
