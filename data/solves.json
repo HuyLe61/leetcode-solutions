@@ -1640,6 +1640,28 @@
   "source": "sync"
  },
  {
+  "id": "lc-runcode_1793740291.2199495_CjOgSDy4wy",
+  "slug": "house-robber",
+  "title": "House Robber",
+  "difficulty": "Medium",
+  "topics": [
+   "Dynamic programming",
+   "Arrays"
+  ],
+  "tags": [
+   "Array",
+   "Dynamic Programming"
+  ],
+  "questionId": "198",
+  "ts": 1793740291405,
+  "lang": "Python",
+  "runtime": "0 ms",
+  "memory": "19 MB",
+  "solveSec": 16,
+  "attempts": 1,
+  "source": "sync"
+ },
+ {
   "id": "lc-2188939712",
   "slug": "house-robber-ii",
   "title": "House Robber II",
