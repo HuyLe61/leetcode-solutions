@@ -1824,6 +1824,10 @@
   "memory": "19.3 MB",
   "solveSec": 405,
   "attempts": 2,
-  "source": "sync"
+  "source": "sync",
+  "approachIds": [
+   "lc-2190376381"
+  ],
+  "approaches": 2
  }
 ]
