@@ -10,7 +10,7 @@ Progress dashboard: https://leetcode-tracker-eight-pied.vercel.app
 
 | Date | Problem | Level | Language | Time | Tries |
 |---|---|---|---|---|---|
-| 2026-11-06 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Medium | Python | 10:02 | 5 |
+| 2026-11-06 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Medium | Python | 10:02 | 5 · 2 approaches |
 | 2026-11-05 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | Python | 6:45 | 2 · 2 approaches |
 | 2026-11-04 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium | Python | 6:02 | 1st try · 2 approaches |
 | 2026-11-03 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | Medium | Python | 6:03 | 1st try |
