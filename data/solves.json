@@ -1829,5 +1829,28 @@
    "lc-2190376381"
   ],
   "approaches": 2
+ },
+ {
+  "id": "lc-runcode_1793977001.8812404_lcjnrkMr43",
+  "slug": "course-schedule-ii",
+  "title": "Course Schedule II",
+  "difficulty": "Medium",
+  "topics": [
+   "Graphs"
+  ],
+  "tags": [
+   "Depth-First Search",
+   "Breadth-First Search",
+   "Graph Theory",
+   "Topological Sort"
+  ],
+  "questionId": "210",
+  "ts": 1793977002211,
+  "lang": "Python",
+  "runtime": "0 ms",
+  "memory": "19.2 MB",
+  "solveSec": 602,
+  "attempts": 5,
+  "source": "sync"
  }
 ]
