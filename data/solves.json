@@ -1857,5 +1857,32 @@
    "lc-2190764535"
   ],
   "approaches": 3
+ },
+ {
+  "id": "lc-runcode_1794624352.9944603_YyWsfgvBWD",
+  "slug": "minimize-malware-spread",
+  "title": "Minimize Malware Spread",
+  "difficulty": "Hard",
+  "topics": [
+   "Graphs",
+   "Hash maps",
+   "Arrays"
+  ],
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Depth-First Search",
+   "Breadth-First Search",
+   "Union-Find",
+   "Graph Theory"
+  ],
+  "questionId": "924",
+  "ts": 1794624353171,
+  "lang": "Python",
+  "runtime": "0 ms",
+  "memory": "19.2 MB",
+  "solveSec": 1611,
+  "attempts": 7,
+  "source": "sync"
  }
 ]
